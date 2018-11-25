@@ -1,0 +1,65 @@
+[
+   {
+      "name":"Kit Colcha Casual Matelada Shiny",
+      "color":"Azul",
+      "image":"img1",
+      "fabric":"Casual",
+      "category":"Solteiro",
+      "value":36900,
+      "valueFor":19900
+   },
+   {
+      "name":"Kit Colcha Equilibrium Matelado",
+      "color":"Azul",
+      "image":"img2",
+      "fabric":"Equilibrium",
+      "category":"King",
+      "value":129000,
+      "valueFor":99000
+   },
+   {
+      "name":"Kit Colcha Luxury Seda",
+      "color":"Off White",
+      "image":"img3",
+      "fabric":"Luxury",
+      "category":"King",
+      "value":749000,
+      "valueFor":599000
+   },
+   {
+      "name":"Kit Colcha Plaza de Oriente Aveludado",
+      "color":"Cinza",
+      "image":"img4",
+      "fabric":"Plaza de Oriente",
+      "category":"King",
+      "value":749000,
+      "valueFor":599000
+   },
+   {
+      "name":"Kit Colcha Plaza de Oriente Aveludado",
+      "color":"Cinza",
+      "image":"img5",
+      "fabric":"Plaza de Oriente",
+      "category":"King",
+      "value":749000,
+      "valueFor":599000
+   },
+   {
+      "name":"Jogo de Toalha Tradicional Fio Egípcio",
+      "color":"Branco",
+      "image":"img6",
+      "fabric":"Tradicional",
+      "category":"5 peças",
+      "value":59000,
+      "valueFor":3900
+   },
+   {
+      "name":"Roupão One For All Petit Boy Aveludado",
+      "color":"Branco",
+      "image":"img7",
+      "fabric":"1 for all Petit Boy",
+      "category":"Tamanho M",
+      "value":24900,
+      "valueFor":19900
+   }
+]
